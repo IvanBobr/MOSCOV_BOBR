@@ -16,3 +16,12 @@
  ->
  
     === ===
+
+
+NOT MINE COMMITS:
+
+boots
+README ADDED
+dots
+init
+fix readme
